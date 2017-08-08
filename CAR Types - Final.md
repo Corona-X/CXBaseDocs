@@ -1,6 +1,6 @@
 > Corona-X Preliminary API A.1<br>
 > Tyler Besselman<br>
-> 26.11.2015<br>
+> November 26, 2015<br>
 
 [TOC]
 

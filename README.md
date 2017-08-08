@@ -1,6 +1,6 @@
 > Corona-X Preliminary API A.1<br>
 > Tyler Besselman<br>
-> 8.8.2017<br>
+> August 8, 2017<br>
 
 BaseDocs
 ========
